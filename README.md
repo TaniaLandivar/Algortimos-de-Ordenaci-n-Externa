@@ -14,7 +14,15 @@ Ordenación Balanceada
 
 Ordenación Polifasica
 # Integrantes:
+
+
 Mateo Quizhpi
+
+
 Tania Landivar
+
+
 Christian Salinas
+
+
 UNIVERSIDAD DE CUENCA
