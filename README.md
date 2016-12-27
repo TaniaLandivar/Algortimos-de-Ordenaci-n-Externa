@@ -1,4 +1,4 @@
-# Algortimos de Ordenación Externa
+# Algoritmos de Ordenación Externa
 La ordenación externa está ligada con los archivos y los dispositivos en que se encuentra al leer el archivo para realizar la ordenación.
 Los algoritmos de ordenación externa que tiene el proyecto son:
 
